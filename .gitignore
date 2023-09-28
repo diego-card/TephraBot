@@ -1,0 +1,5 @@
+node_modules
+config.json
+doThis.txt
+data/secrets/secrets.json
+.env
